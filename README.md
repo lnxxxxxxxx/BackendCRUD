@@ -7,6 +7,6 @@ creating the project with springboot.
 
 I add connection to database through hibernate, using dependencies jba, mysql, etc.
 
-I create Rest API connection .json.
+I create API Rest connection .json.
 
 I create the SQL database.

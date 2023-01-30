@@ -1,5 +1,5 @@
 # README
-creating the project with springboot.
+creating the project with springboot. *Maven
 
 :::=====================================================================:::
 

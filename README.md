@@ -25,3 +25,8 @@ Add Login comparing data with database, I use variable and condition to compare 
 Add user list table updated with APIrest. GET request.
 
 Add botton DELETE, which sends a GET n DELETE request and update the table.
+
+:::======================================================================:::
+05/02/2023
+
+Add JWT
